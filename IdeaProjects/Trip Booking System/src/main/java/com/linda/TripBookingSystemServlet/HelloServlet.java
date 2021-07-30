@@ -1,4 +1,4 @@
-package com.linda.TripBookingSystem;
+package com.linda.TripBookingSystemServlet;
 
 import java.io.*;
 import javax.servlet.http.*;
